@@ -1,1 +1,1 @@
-Medical Genetics-Quick access: https://hanansad.shinyapps.io/Medical-Genitics/
+[Medical Genetics-Quick access](https://hanansad.shinyapps.io/Medical-Genitics/)
